@@ -33,8 +33,8 @@
 _Блок ниже обновляется автоматически workflow из `.github/workflows/update-latest-projects.yml`._
 
 <!-- LATEST-PROJECTS-START -->
-- [NotesApp](https://github.com/Slipcast-dev/NotesApp) — Простой заметник для Windows: локальные заметки, теги, поиск, rich text и portable-сборка. | `C#` | stars: `0` | updated: `2026-06-17`
-- _Обновлено автоматически: 2026-06-20 11:32 UTC_
+- [NotesApp](https://github.com/Slipcast-dev/NotesApp) — Простой заметник для Windows: локальные заметки, теги, поиск, rich text и portable-сборка. | `C#` | stars: `1` | updated: `2026-06-17`
+- _Обновлено автоматически: 2026-06-21 12:21 UTC_
 <!-- LATEST-PROJECTS-END -->
 
 ## Технологический стек
