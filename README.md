@@ -33,8 +33,9 @@
 _Блок ниже обновляется автоматически workflow из `.github/workflows/update-latest-projects.yml`._
 
 <!-- LATEST-PROJECTS-START -->
+- [chatgpt-ventura](https://github.com/Slipcast-dev/chatgpt-ventura) — Неофициальная оболочка ChatGPT для macOS Ventura на AppKit и WebKit | `Swift` | stars: `0` | updated: `2026-07-13`
 - [NotesApp](https://github.com/Slipcast-dev/NotesApp) — Простой заметник для Windows: локальные заметки, теги, поиск, rich text и portable-сборка. | `C#` | stars: `1` | updated: `2026-06-17`
-- _Обновлено автоматически: 2026-07-13 07:42 UTC_
+- _Обновлено автоматически: 2026-07-14 06:27 UTC_
 <!-- LATEST-PROJECTS-END -->
 
 ## Технологический стек
