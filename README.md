@@ -38,7 +38,7 @@ _Блок ниже обновляется автоматически workflow и
 - [desktop-cleaner-macos](https://github.com/Slipcast-dev/desktop-cleaner-macos) — Безопасная автоматическая архивация Рабочего стола macOS с помощью AppleScript Folder Actions | `AppleScript` | stars: `0` | updated: `2026-07-14`
 - [clipboard-logger-macos](https://github.com/Slipcast-dev/clipboard-logger-macos) — Local AppleScript clipboard history logger for macOS with Markdown output and duplicate detection. | `AppleScript` | stars: `0` | updated: `2026-07-14`
 - [NotesApp](https://github.com/Slipcast-dev/NotesApp) — Простой заметник для Windows: локальные заметки, теги, поиск, rich text и portable-сборка. | `C#` | stars: `1` | updated: `2026-06-17`
-- _Обновлено автоматически: 2026-07-16 06:33 UTC_
+- _Обновлено автоматически: 2026-07-17 06:29 UTC_
 <!-- LATEST-PROJECTS-END -->
 
 ## Технологический стек
