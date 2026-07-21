@@ -33,12 +33,9 @@
 _Блок ниже обновляется автоматически workflow из `.github/workflows/update-latest-projects.yml`._
 
 <!-- LATEST-PROJECTS-START -->
-- [chatgpt-ventura](https://github.com/Slipcast-dev/chatgpt-ventura) — Неофициальная оболочка ChatGPT для macOS Ventura на AppKit и WebKit | `Swift` | stars: `0` | updated: `2026-07-15`
-- [macos-folder-auto-sorter](https://github.com/Slipcast-dev/macos-folder-auto-sorter) — Безопасная автосортировка файлов в macOS через Folder Actions на AppleScript | `AppleScript` | stars: `0` | updated: `2026-07-14`
-- [desktop-cleaner-macos](https://github.com/Slipcast-dev/desktop-cleaner-macos) — Безопасная автоматическая архивация Рабочего стола macOS с помощью AppleScript Folder Actions | `AppleScript` | stars: `0` | updated: `2026-07-14`
-- [clipboard-logger-macos](https://github.com/Slipcast-dev/clipboard-logger-macos) — Local AppleScript clipboard history logger for macOS with Markdown output and duplicate detection. | `AppleScript` | stars: `0` | updated: `2026-07-14`
+- [ARGUS](https://github.com/Slipcast-dev/ARGUS) — ARGUS — local-first macOS file automation agent / локальный файловый агент для macOS. | `Swift` | stars: `0` | updated: `2026-07-20`
 - [NotesApp](https://github.com/Slipcast-dev/NotesApp) — Простой заметник для Windows: локальные заметки, теги, поиск, rich text и portable-сборка. | `C#` | stars: `1` | updated: `2026-06-17`
-- _Обновлено автоматически: 2026-07-20 07:33 UTC_
+- _Обновлено автоматически: 2026-07-21 06:43 UTC_
 <!-- LATEST-PROJECTS-END -->
 
 ## Технологический стек
