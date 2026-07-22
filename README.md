@@ -33,9 +33,9 @@
 _Блок ниже обновляется автоматически workflow из `.github/workflows/update-latest-projects.yml`._
 
 <!-- LATEST-PROJECTS-START -->
-- [ARGUS](https://github.com/Slipcast-dev/ARGUS) — ARGUS — local-first macOS file automation agent / локальный файловый агент для macOS. | `Swift` | stars: `0` | updated: `2026-07-20`
+- [ARGUS](https://github.com/Slipcast-dev/ARGUS) — ARGUS — local-first macOS file automation agent / локальный файловый агент для macOS. | `Swift` | stars: `0` | updated: `2026-07-21`
 - [NotesApp](https://github.com/Slipcast-dev/NotesApp) — Простой заметник для Windows: локальные заметки, теги, поиск, rich text и portable-сборка. | `C#` | stars: `1` | updated: `2026-06-17`
-- _Обновлено автоматически: 2026-07-21 06:43 UTC_
+- _Обновлено автоматически: 2026-07-22 06:44 UTC_
 <!-- LATEST-PROJECTS-END -->
 
 ## Технологический стек
