@@ -35,7 +35,7 @@ _Блок ниже обновляется автоматически workflow и
 <!-- LATEST-PROJECTS-START -->
 - [NotesApp](https://github.com/Slipcast-dev/NotesApp) — 🚧 В разработке · черновые beta-сборки NotesApp для macOS и Windows · локальные file-first Markdown заметки. | `Swift` | stars: `1` | updated: `2026-07-26`
 - [ARGUS](https://github.com/Slipcast-dev/ARGUS) — ARGUS — local-first macOS file automation agent / локальный файловый агент для macOS. | `Swift` | stars: `0` | updated: `2026-07-23`
-- _Обновлено автоматически: 2026-08-13 05:50 UTC_
+- _Обновлено автоматически: 2026-08-14 05:48 UTC_
 <!-- LATEST-PROJECTS-END -->
 
 ## Технологический стек
