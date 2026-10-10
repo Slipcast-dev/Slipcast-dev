@@ -33,8 +33,7 @@
 _Блок ниже обновляется автоматически workflow из `.github/workflows/update-latest-projects.yml`._
 
 <!-- LATEST-PROJECTS-START -->
-- [ARGUS](https://github.com/Slipcast-dev/ARGUS) — ARGUS — local-first macOS file automation agent / локальный файловый агент для macOS. | `Swift` | stars: `0` | updated: `2026-07-23`
-- _Обновлено автоматически: 2026-10-09 11:22 UTC_
+- На текущий момент публичных репозиториев пока нет.
 <!-- LATEST-PROJECTS-END -->
 
 ## Технологический стек
