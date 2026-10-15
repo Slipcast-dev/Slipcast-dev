@@ -2,33 +2,29 @@
 
 [English](README.md) | [Русский](README.ru.md)
 
-macOS Automation Engineer | Apple Ecosystem | AI Models & Agents
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile-header-mobile.svg">
+  <img src="assets/profile-header.svg" alt="Terminal Lab — macOS Automation Engineer | Apple Ecosystem | AI Models &amp; Agents" width="800">
+</picture>
 
 Создаю интеллектуальные инструменты автоматизации для macOS и рабочие процессы с ИИ.
 
-![macOS · Apple ecosystem · AI agents](assets/profile-header.svg)
+## Над чем работаю
 
-## Инженерные направления
+- `native` — Swift, SwiftUI и системные утилиты macOS.
+- `automate` — AppleScript, Shortcuts, JXA и shell-сценарии.
+- `integrate` — Python, AsyncIO, API и инструменты для разработчиков.
+- `reason` — LLM, MCP, вызов инструментов и агентные рабочие процессы.
 
-Направления разработки и изучения; публичные репозитории отражают только часть этой работы.
+<details>
+<summary>Стек / инструменты и платформы</summary>
 
-### Разработка для macOS
-
-Swift · SwiftUI · AppleScript · Нативные приложения macOS · Apple Silicon · Системные утилиты macOS · Инструменты командной строки · Системные интеграции
-
-### Автоматизация Apple
-
-AppleScript · Shortcuts · JavaScript for Automation (JXA) · Bash / Zsh · Shell-скрипты · LaunchAgents · launchd · Автоматизация Finder · Автоматизация рабочих процессов macOS
-
-### Автоматизация на Python
-
-Python · AsyncIO · CLI-утилиты · API-интеграции · Системная автоматизация · Утилиты для разработчиков · Скрипты автоматизации
-
-### ИИ-модели и агенты
-
-Большие языковые модели (LLM) · ИИ-агенты · Агентные рабочие процессы · Model Context Protocol (MCP) · OpenAI / Codex · DeepSeek · Вызов инструментов · Автоматизация с ИИ · Локальные ИИ-интеграции
-
-## Технологический стек
+```text
+apple      Swift · SwiftUI · AppleScript · macOS · Apple Silicon
+systems    Python · Bash · Zsh · C++20 · Git
+agents     LLM · MCP · OpenAI · Codex · DeepSeek · AI Agents
+tooling    TypeScript · Astro · GitHub Actions · Linux
+```
 
 ### Apple & macOS
 
@@ -62,9 +58,34 @@ Python · AsyncIO · CLI-утилиты · API-интеграции · Сист�
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1E293B?style=flat&labelColor=0F172A&color=1E293B)
 ![Linux](https://img.shields.io/badge/Linux-1E293B?style=flat&labelColor=0F172A&color=1E293B)
 
-## Последние проекты
+</details>
 
-Публичные неархивные репозитории без форков, по дате последнего push. Список обновляется ежедневно через GitHub Actions. Описания сохраняют исходный язык.
+<details>
+<summary>Инженерные интересы и направления разработки</summary>
+
+Направления разработки и изучения; публичные репозитории отражают только часть этой работы.
+
+### Разработка для macOS
+
+Swift · SwiftUI · AppleScript · Нативные приложения macOS · Apple Silicon · Системные утилиты macOS · Инструменты командной строки · Системные интеграции
+
+### Автоматизация Apple
+
+AppleScript · Shortcuts · JavaScript for Automation (JXA) · Bash / Zsh · Shell-скрипты · LaunchAgents · launchd · Автоматизация Finder · Автоматизация рабочих процессов macOS
+
+### Автоматизация на Python
+
+Python · AsyncIO · CLI-утилиты · API-интеграции · Системная автоматизация · Утилиты для разработчиков · Скрипты автоматизации
+
+### ИИ-модели и агенты
+
+Большие языковые модели (LLM) · ИИ-агенты · Агентные рабочие процессы · Model Context Protocol (MCP) · OpenAI / Codex · DeepSeek · Вызов инструментов · Автоматизация с ИИ · Локальные ИИ-интеграции
+
+</details>
+
+## Последние репозитории
+
+Ежедневное обновление публичных неархивных репозиториев без форков. Порядок — по последнему push; описания сохраняют исходный язык.
 
 <!-- LATEST-PROJECTS-START -->
 
@@ -74,13 +95,6 @@ _Обновлено автоматически: 2026-10-15 18:03 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
-## Статистика GitHub
+---
 
-Актуальная активность и данные репозиториев на GitHub без внешних статистических виджетов.
-
-- [Активность и вклад](https://github.com/Slipcast-dev?tab=overview)
-- [Последние репозитории и фильтры по языкам](https://github.com/Slipcast-dev?tab=repositories&sort=updated)
-
-## Контакты
-
-[github.com/Slipcast-dev](https://github.com/Slipcast-dev)
+[Активность](https://github.com/Slipcast-dev?tab=overview) / [Репозитории](https://github.com/Slipcast-dev?tab=repositories&sort=updated) / [github.com/Slipcast-dev](https://github.com/Slipcast-dev)
