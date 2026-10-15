@@ -3,8 +3,8 @@
 [English](README.md) | [Русский](README.ru.md)
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-header-mobile.svg">
-  <img src="assets/profile-header.svg" alt="Terminal Lab — macOS Automation Engineer | Apple Ecosystem | AI Models &amp; Agents" width="800">
+  <source media="(max-width: 600px)" srcset="assets/terminal-header-mobile.svg">
+  <img src="assets/terminal-header.svg" alt="Terminal Lab — macOS Automation Engineer | Apple Ecosystem | AI Models &amp; Agents" width="800">
 </picture>
 
 Создаю интеллектуальные инструменты автоматизации для macOS и рабочие процессы с ИИ.
