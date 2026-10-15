@@ -2,33 +2,29 @@
 
 [English](README.md) | [Русский](README.ru.md)
 
-macOS Automation Engineer | Apple Ecosystem | AI Models & Agents
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile-header-mobile.svg">
+  <img src="assets/profile-header.svg" alt="Terminal Lab — macOS Automation Engineer | Apple Ecosystem | AI Models &amp; Agents" width="800">
+</picture>
 
 Building intelligent automation tools for macOS and AI-powered workflows.
 
-![macOS · Apple ecosystem · AI agents](assets/profile-header.svg)
+## What I work on
 
-## Engineering Focus
+- `native` — Swift, SwiftUI and macOS system utilities.
+- `automate` — AppleScript, Shortcuts, JXA and shell workflows.
+- `integrate` — Python, AsyncIO, APIs and developer tools.
+- `reason` — LLMs, MCP, tool calling and agentic workflows.
 
-Areas of development and exploration; public repositories reflect only part of this work.
+<details>
+<summary>Stack / tools & platforms</summary>
 
-### macOS Development
-
-Swift · SwiftUI · AppleScript · Native macOS applications · Apple Silicon · macOS system utilities · Command line tools · System integrations
-
-### Apple Automation
-
-AppleScript · Shortcuts · JavaScript for Automation (JXA) · Bash / Zsh · Shell scripting · LaunchAgents · launchd · Finder automation · macOS workflow automation
-
-### Python Automation
-
-Python · AsyncIO · CLI tools · API integrations · System automation · Developer utilities · Automation scripts
-
-### AI Models & Agents
-
-Large Language Models (LLM) · AI agents · Agentic workflows · Model Context Protocol (MCP) · OpenAI / Codex · DeepSeek · Tool calling · AI-powered automation · Local AI integrations
-
-## Technology Stack
+```text
+apple      Swift · SwiftUI · AppleScript · macOS · Apple Silicon
+systems    Python · Bash · Zsh · C++20 · Git
+agents     LLM · MCP · OpenAI · Codex · DeepSeek · AI Agents
+tooling    TypeScript · Astro · GitHub Actions · Linux
+```
 
 ### Apple & macOS
 
@@ -62,9 +58,34 @@ Large Language Models (LLM) · AI agents · Agentic workflows · Model Context P
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1E293B?style=flat&labelColor=0F172A&color=1E293B)
 ![Linux](https://img.shields.io/badge/Linux-1E293B?style=flat&labelColor=0F172A&color=1E293B)
 
-## Latest Projects
+</details>
 
-Public, non-archived, original repositories, ordered by the latest push. Updated daily by GitHub Actions. Repository descriptions keep their original language.
+<details>
+<summary>Engineering interests & development areas</summary>
+
+Areas of development and exploration; public repositories reflect only part of this work.
+
+### macOS Development
+
+Swift · SwiftUI · AppleScript · Native macOS applications · Apple Silicon · macOS system utilities · Command line tools · System integrations
+
+### Apple Automation
+
+AppleScript · Shortcuts · JavaScript for Automation (JXA) · Bash / Zsh · Shell scripting · LaunchAgents · launchd · Finder automation · macOS workflow automation
+
+### Python Automation
+
+Python · AsyncIO · CLI tools · API integrations · System automation · Developer utilities · Automation scripts
+
+### AI Models & Agents
+
+Large Language Models (LLM) · AI agents · Agentic workflows · Model Context Protocol (MCP) · OpenAI / Codex · DeepSeek · Tool calling · AI-powered automation · Local AI integrations
+
+</details>
+
+## Latest repositories
+
+Updated daily from public, non-archived repositories, excluding forks. Ordered by latest push; descriptions keep their original language.
 
 <!-- LATEST-PROJECTS-START -->
 
@@ -74,13 +95,6 @@ _Updated automatically: 2026-10-15 18:03 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
-## GitHub Dashboard
+---
 
-Live activity and repository data on GitHub, without external statistics widgets.
-
-- [Contribution activity](https://github.com/Slipcast-dev?tab=overview)
-- [Latest repositories & language filters](https://github.com/Slipcast-dev?tab=repositories&sort=updated)
-
-## Connect
-
-[github.com/Slipcast-dev](https://github.com/Slipcast-dev)
+[Contributions](https://github.com/Slipcast-dev?tab=overview) / [Repositories](https://github.com/Slipcast-dev?tab=repositories&sort=updated) / [github.com/Slipcast-dev](https://github.com/Slipcast-dev)
