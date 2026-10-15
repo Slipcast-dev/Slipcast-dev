@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 270" role="img" aria-labelledby="title description">
+  <title id="title">Terminal Lab — Slipcast-dev</title>
+  <desc id="description">macOS Automation Engineer | Apple Ecosystem | AI Models &amp; Agents. Build intelligent tools. Automate the repetitive work.</desc>
+  <!-- CSS внутри SVG работает в режиме изображения; внешние шрифты, скрипты и ресурсы не нужны. -->
+  <style>
+    text { font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; fill:#E2EDE9; font-size:16px; }
+    .chrome { font-size:13px; fill:#9CAFAA; }
+    .title { font-size:34px; font-weight:500; letter-spacing:-1px; }
+    .context { fill:#A8BDB5; font-size:16px; }
+    .prompt { fill:#7DD3B0; }
+    .command-one { animation:type-one 12s steps(6,end) infinite; }
+    .command-two { animation:type-two 12s steps(15,end) infinite; }
+    .output-one { animation:output-one 12s ease-out infinite; }
+    .output-two { animation:output-two 12s ease-out infinite; }
+    @keyframes type-one { 0%,3% { width:0px; } 12%,100% { width:100px; } }
+    @keyframes type-two { 0%,22% { width:0px; } 39%,100% { width:170px; } }
+    @keyframes output-one { 0%,13% { opacity:0; } 18%,100% { opacity:1; } }
+    @keyframes output-two { 0%,40% { opacity:0; } 46%,100% { opacity:1; } }
+    /* Полный статичный кадр доступен при снижении движения и без поддержки CSS-анимаций. */
+    @media (prefers-reduced-motion:reduce) { .command-one,.command-two,.output-one,.output-two { animation:none; } }
+  </style>
+  <defs>
+    <clipPath id="window"><rect x="1" y="1" width="798" height="268" rx="12"/></clipPath>
+    <clipPath id="first-command"><rect class="command-one" x="52" y="46" width="100" height="28"/></clipPath>
+    <clipPath id="second-command"><rect class="command-two" x="52" y="170" width="170" height="28"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="798" height="268" rx="12" fill="#10191B" stroke="#2F4643"/>
+  <g clip-path="url(#window)">
+    <rect width="800" height="34" fill="#172323"/>
+    <text x="30" y="22" class="chrome">zsh — slipcast@mac — ~/engineering</text>
+    <text x="30" y="66" class="prompt">❯</text>
+    <text x="52" y="66" clip-path="url(#first-command)">whoami</text>
+    <g class="output-one"><text x="30" y="112" class="title">macOS Automation Engineer</text><text x="30" y="146" class="context">Apple ecosystem / AI models / autonomous agents</text></g>
+    <text x="30" y="190" class="prompt">❯</text>
+    <text x="52" y="190" clip-path="url(#second-command)">cat mission.txt</text>
+    <g class="output-two"><text x="30" y="217">Build intelligent tools.</text><text x="30" y="242">Automate the repetitive work.</text></g>
+  </g>
+</svg>
