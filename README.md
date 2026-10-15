@@ -33,8 +33,8 @@
 _Блок ниже обновляется автоматически workflow из `.github/workflows/update-latest-projects.yml`._
 
 <!-- LATEST-PROJECTS-START -->
-- [MacAssistant](https://github.com/Slipcast-dev/MacAssistant) — Локальный SwiftUI-помощник для macOS: диагностика, безопасный MCP-мост и ИИ-инструменты под защитой Афины. | `Swift` | stars: `0` | updated: `2026-10-13`
-- _Обновлено автоматически: 2026-10-14 09:33 UTC_
+- [Athena](https://github.com/Slipcast-dev/Athena) — Athena — нативный помощник для macOS: диагностика Mac, ИИ-чат и безопасное подключение Codex / DeepSeek Harness через MCP. | `Swift` | stars: `0` | updated: `2026-10-14`
+- _Обновлено автоматически: 2026-10-15 09:11 UTC_
 <!-- LATEST-PROJECTS-END -->
 
 ## Технологический стек
