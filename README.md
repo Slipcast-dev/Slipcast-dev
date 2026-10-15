@@ -1,65 +1,86 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0f1f,50:12355b,100:0b1220&text=Slipcast-dev&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Automation%20Engineer%20%7C%20Python%20%7C%20Swift%20%7C%20AppleScript%20%7C%20C%2B%2B&descAlignY=71" alt="Slipcast-dev Header" />
-</p>
+# Slipcast-dev
 
-<p align="center">
-  <a href="https://github.com/Slipcast-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/Slipcast-dev?style=for-the-badge&label=FOLLOWERS&color=0f766e" alt="Followers" />
-  </a>
-  <a href="https://github.com/Slipcast-dev/Slipcast-dev/issues">
-    <img src="https://img.shields.io/github/issues/Slipcast-dev/Slipcast-dev?style=for-the-badge&label=PROFILE%20ISSUES&color=1d4ed8" alt="Profile issues" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Slipcast-dev&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+[English](README.md) | [Русский](README.ru.md)
 
-<p align="center">
-  Python • Swift • AppleScript • C++ • CLI Automation • macOS Tooling
-</p>
+macOS Automation Engineer | Apple Ecosystem | AI Models & Agents
 
-## Portfolio
+Building intelligent automation tools for macOS and AI-powered workflows.
 
-Инженер автоматизации, который проектирует утилиты для ускорения инженерных процессов: от CLI-инструментов и API-интеграций до нативной автоматизации macOS.  
-Цель портфолио — показывать практичные решения, которые сокращают ручную работу и повышают надежность операционных workflows.
+![macOS · Apple ecosystem · AI agents](assets/profile-header.svg)
 
-## Сильные стороны
+## Engineering Focus
 
-- Python-автоматизация: сервисные скрипты, асинхронные интеграции, tooling для разработчиков.
-- macOS automation: AppleScript и Swift для системных сценариев и native CLI.
-- Unix/CLI pipelines: ускорение рутины через shell-подход, предсказуемые скрипты и Git-процессы.
-- C++ компоненты: производительные утилиты для узких системных задач.
+Areas of development and exploration; public repositories reflect only part of this work.
 
-## Последние проекты
+### macOS Development
 
-_Блок ниже обновляется автоматически workflow из `.github/workflows/update-latest-projects.yml`._
+Swift · SwiftUI · AppleScript · Native macOS applications · Apple Silicon · macOS system utilities · Command line tools · System integrations
+
+### Apple Automation
+
+AppleScript · Shortcuts · JavaScript for Automation (JXA) · Bash / Zsh · Shell scripting · LaunchAgents · launchd · Finder automation · macOS workflow automation
+
+### Python Automation
+
+Python · AsyncIO · CLI tools · API integrations · System automation · Developer utilities · Automation scripts
+
+### AI Models & Agents
+
+Large Language Models (LLM) · AI agents · Agentic workflows · Model Context Protocol (MCP) · OpenAI / Codex · DeepSeek · Tool calling · AI-powered automation · Local AI integrations
+
+## Technology Stack
+
+### Apple & macOS
+
+![Swift](https://img.shields.io/badge/Swift-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+![AppleScript](https://img.shields.io/badge/AppleScript-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+![macOS](https://img.shields.io/badge/macOS-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+
+### Automation & Systems
+
+![Python](https://img.shields.io/badge/Python-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+![Bash](https://img.shields.io/badge/Bash-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+![Zsh](https://img.shields.io/badge/Zsh-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+![C++20](https://img.shields.io/badge/C%2B%2B20-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+![Git](https://img.shields.io/badge/Git-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+
+### AI & Agents
+
+![LLM](https://img.shields.io/badge/LLM-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+![MCP](https://img.shields.io/badge/MCP-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+![OpenAI](https://img.shields.io/badge/OpenAI-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+![Codex](https://img.shields.io/badge/Codex-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+
+### Web & Developer Tools
+
+![TypeScript](https://img.shields.io/badge/TypeScript-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+![Astro](https://img.shields.io/badge/Astro-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+![Linux](https://img.shields.io/badge/Linux-1E293B?style=flat&labelColor=0F172A&color=1E293B)
+
+## Latest Projects
+
+Public, non-archived, original repositories, ordered by the latest push. Updated daily by GitHub Actions. Repository descriptions keep their original language.
 
 <!-- LATEST-PROJECTS-START -->
-- [Athena](https://github.com/Slipcast-dev/Athena) — Athena — нативный помощник для macOS: диагностика Mac, ИИ-чат и безопасное подключение Codex / DeepSeek Harness через MCP. | `Swift` | stars: `0` | updated: `2026-10-14`
-- _Обновлено автоматически: 2026-10-15 09:11 UTC_
+
+- [Athena](https://github.com/Slipcast-dev/Athena) — Athena — нативный помощник для macOS: диагностика Mac, ИИ-чат и безопасное подключение Codex / DeepSeek Harness через MCP. · `Swift` · stars: 0 · pushed: 2026-10-14
+
+_Updated automatically: 2026-10-15 17:51 UTC_
+
 <!-- LATEST-PROJECTS-END -->
 
-## Технологический стек
+## GitHub Dashboard
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++20](https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![AppleScript](https://img.shields.io/badge/AppleScript-111827?style=for-the-badge&logo=apple&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Live activity and repository data on GitHub, without external statistics widgets.
 
-## GitHub аналитика
+- [Contribution activity](https://github.com/Slipcast-dev?tab=overview)
+- [Latest repositories & language filters](https://github.com/Slipcast-dev?tab=repositories&sort=updated)
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Slipcast-dev&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slipcast-dev&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
-</p>
+## Connect
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Slipcast-dev&area=true&hide_border=true&bg_color=ffffff&color=0f172a&line=0369a1&point=0ea5e9" alt="Activity Graph" />
-</p>
-
-## Контакты
-
-- GitHub: [github.com/Slipcast-dev](https://github.com/Slipcast-dev)
-- Обсуждение и предложения: [Issue в профильном репозитории](https://github.com/Slipcast-dev/Slipcast-dev/issues)
+[github.com/Slipcast-dev](https://github.com/Slipcast-dev)

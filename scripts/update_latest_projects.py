@@ -15,7 +15,8 @@ import os
 import re
 import sys
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import datetime, timezone
+from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
@@ -48,6 +49,10 @@ def parse_args() -> argparse.Namespace:
 
     parser: argparse.ArgumentParser = argparse.ArgumentParser(
         description="Обновляет динамический блок последних проектов в README."
+    )
+    parser.add_argument(
+        "--readme-ru",
+        help="Русская версия README; обновляется из того же ответа API.",
     )
     parser.add_argument(
         "--readme",
@@ -188,14 +193,20 @@ def parse_repo_card(repo_payload: dict[str, Any]) -> RepoCard | None:
     )
 
 
-def build_projects_block(cards: list[RepoCard], limit: int) -> str:
-    """Формирует Markdown-блок для вставки между маркерами."""
+def build_projects_block(
+    cards: list[RepoCard], limit: int, language: str = "en"
+) -> str:
+    """Локализует подписи, сохраняя исходные описания и общий порядок проектов."""
 
     if limit < 1:
         raise ValueError("Параметр --limit должен быть больше 0.")
 
     if not cards:
-        return "- На текущий момент публичных репозиториев пока нет."
+        return (
+            "- Пока нет подходящих публичных репозиториев."
+            if language == "ru"
+            else "- No eligible public repositories yet."
+        )
 
     selected_cards: list[RepoCard] = sorted(
         cards, key=lambda item: item.pushed_at, reverse=True
@@ -204,15 +215,34 @@ def build_projects_block(cards: list[RepoCard], limit: int) -> str:
     lines: list[str] = []
     for card in selected_cards:
         pushed_label: str = card.pushed_at.strftime("%Y-%m-%d")
+        # Экранируем HTML и Markdown из API: описание должно оставаться текстом,
+        # а не превращаться в разметку или ссылки внутри профильного README.
+        description: str = escape_markdown(card.description)
+        if card.description == "Описание пока не добавлено." and language == "en":
+            description = "No description provided."
+        stars_label: str = "звёзды" if language == "ru" else "stars"
+        pushed_title: str = "push" if language == "ru" else "pushed"
         line: str = (
-            f"- [{card.name}]({card.html_url}) — {card.description} "
-            f"| `{card.language}` | stars: `{card.stars}` | updated: `{pushed_label}`"
+            f"- [{escape_markdown(card.name)}]({card.html_url}) — {description} "
+            f"· `{card.language}` · {stars_label}: {card.stars} "
+            f"· {pushed_title}: {pushed_label}"
         )
         lines.append(line)
 
-    generated_at: str = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-    lines.append(f"- _Обновлено автоматически: {generated_at}_")
+    generated_at: str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    updated_label: str = (
+        "Обновлено автоматически" if language == "ru" else "Updated automatically"
+    )
+    lines.append(f"\n_{updated_label}: {generated_at}_")
     return "\n".join(lines)
+
+
+def escape_markdown(value: str) -> str:
+    """Защищает однострочный текст API от интерпретации GitHub Markdown."""
+
+    # Сначала экранируем обратную косую черту, затем спецсимволы Markdown.
+    value = value.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    return re.sub(r"([\\`*_[\]{}()!|])", r"\\\1", value)
 
 
 def replace_marked_block(readme_content: str, projects_block: str) -> str:
@@ -226,11 +256,21 @@ def replace_marked_block(readme_content: str, projects_block: str) -> str:
         rf"({re.escape(START_MARKER)}\n)(.*?)(\n{re.escape(END_MARKER)})",
         flags=re.DOTALL,
     )
-    replacement: str = rf"\1{projects_block}\3"
+    if (
+        readme_content.count(START_MARKER) != 1
+        or readme_content.count(END_MARKER) != 1
+    ):
+        raise RuntimeError("Ожидается ровно одна пара маркеров LATEST-PROJECTS.")
 
     updated_readme: str
     replacements_count: int
-    updated_readme, replacements_count = pattern.subn(replacement, readme_content, count=1)
+    # Callback вставляет текст буквально: обратные слеши в описании не должны
+    # трактоваться как ссылки на группы регулярного выражения (например, \\1).
+    updated_readme, replacements_count = pattern.subn(
+        lambda match: f"{match.group(1)}\n{projects_block}\n{match.group(3)}",
+        readme_content,
+        count=1,
+    )
     if replacements_count != 1:
         raise RuntimeError(
             "Не найдено ровно одного блока маркеров LATEST-PROJECTS. "
@@ -274,8 +314,22 @@ def main() -> int:
                 continue
             cards.append(card)
 
-        projects_block: str = build_projects_block(cards, args.limit)
-        changed: bool = update_readme_file(args.readme, projects_block)
+        targets: list[tuple[str, str]] = [(args.readme, "en")]
+        if args.readme_ru:
+            targets.append((args.readme_ru, "ru"))
+        # Проверяем оба документа до записи, чтобы ошибка маркеров в одном
+        # переводе не оставила второй перевод частично обновлённым.
+        updates: list[tuple[Path, str, str]] = []
+        for filename, language in targets:
+            path: Path = Path(filename)
+            original: str = path.read_text(encoding="utf-8")
+            block: str = build_projects_block(cards, args.limit, language)
+            updates.append((path, original, replace_marked_block(original, block)))
+        changed: bool = False
+        for path, original, updated in updates:
+            if original != updated:
+                path.write_text(updated, encoding="utf-8")
+                changed = True
 
         if changed:
             print("README обновлён.")

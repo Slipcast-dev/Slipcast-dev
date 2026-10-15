@@ -26,17 +26,17 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
         run: |
-          python scripts/update_latest_projects.py --readme README.md --limit 6
+          python scripts/update_latest_projects.py --readme README.md --readme-ru README.ru.md --limit 6
 
       - name: Commit and push if README changed
         run: |
-          if git diff --quiet README.md; then
+          if git diff --quiet -- README.md README.ru.md; then
             echo "README is up-to-date. Nothing to commit."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md README.ru.md
           git commit -m "chore(readme): update latest projects"
           git push
