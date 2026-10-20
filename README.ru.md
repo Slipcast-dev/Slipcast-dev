@@ -92,7 +92,7 @@ Python · AsyncIO · CLI-утилиты · API-интеграции · Сист�
 - [Athena-Agent](https://github.com/Slipcast-dev/Athena-Agent) — Athena — local macOS diagnostics agent / Локальный агент диагностики Mac. Codex &amp; DeepSeek Harness. Non-commercial. · `Swift` · звёзды: 0 · push: 2026-10-18
 - [Ares-Agent](https://github.com/Slipcast-dev/Ares-Agent) — Ares — local macOS file agent / Локальный файловый агент macOS. Codex &amp; DeepSeek Harness. Non-commercial. · `Swift` · звёзды: 0 · push: 2026-10-18
 
-_Обновлено автоматически: 2026-10-19 09:59 UTC_
+_Обновлено автоматически: 2026-10-20 09:28 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
