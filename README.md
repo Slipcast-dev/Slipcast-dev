@@ -89,10 +89,10 @@ Updated daily from public, non-archived repositories, excluding forks. Ordered b
 
 <!-- LATEST-PROJECTS-START -->
 
-- [Athena-Agent](https://github.com/Slipcast-dev/Athena-Agent) — Athena — local macOS diagnostics agent / Локальный агент диагностики Mac. Codex &amp; DeepSeek Harness. Non-commercial. · `Swift` · stars: 0 · pushed: 2026-10-18
-- [Ares-Agent](https://github.com/Slipcast-dev/Ares-Agent) — Ares — local macOS file agent / Локальный файловый агент macOS. Codex &amp; DeepSeek Harness. Non-commercial. · `Swift` · stars: 0 · pushed: 2026-10-18
+- [Athena-Agent](https://github.com/Slipcast-dev/Athena-Agent) — Athena — local macOS diagnostics and monitoring agent / Диагностика и мониторинг. Codex &amp; DeepSeek Harness. Non-commercial; unsigned builds. · `Swift` · stars: 0 · pushed: 2026-10-21
+- [Ares-Agent](https://github.com/Slipcast-dev/Ares-Agent) — Ares — local macOS file automation agent / Файлы и правила. Codex &amp; DeepSeek Harness. Non-commercial; unsigned builds. · `Swift` · stars: 0 · pushed: 2026-10-21
 
-_Updated automatically: 2026-10-20 09:28 UTC_
+_Updated automatically: 2026-10-21 09:24 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
