@@ -89,12 +89,12 @@ Updated daily from public, non-archived repositories, excluding forks. Ordered b
 
 <!-- LATEST-PROJECTS-START -->
 
-- [Athena-Agent](https://github.com/Slipcast-dev/Athena-Agent) — Athena — local macOS diagnostics and monitoring agent / Диагностика и мониторинг. Codex &amp; DeepSeek Harness. Non-commercial; unsigned builds. · `Swift` · stars: 0 · pushed: 2026-10-23
-- [Ares-Agent](https://github.com/Slipcast-dev/Ares-Agent) — Ares — local macOS file automation agent / Файлы и правила. Codex &amp; DeepSeek Harness. Non-commercial; unsigned builds. · `Swift` · stars: 0 · pushed: 2026-10-23
+- [Athena-Agent](https://github.com/Slipcast-dev/Athena-Agent) — Athena 0.38.1 — local macOS agent, RU/EN, Apple Silicon preview. Source available; ad-hoc signed installers. · `Swift` · stars: 0 · pushed: 2026-10-24
+- [Ares-Agent](https://github.com/Slipcast-dev/Ares-Agent) — Ares 0.38.1 — local macOS agent, RU/EN, Apple Silicon preview. Source available; ad-hoc signed installers. · `Swift` · stars: 0 · pushed: 2026-10-24
 - [Rdragon-K530RGB-Keyboard-Port](https://github.com/Slipcast-dev/Rdragon-K530RGB-Keyboard-Port) — No description provided. · `N/A` · stars: 0 · pushed: 2026-10-21
 - [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — No description provided. · `N/A` · stars: 0 · pushed: 2026-10-21
 
-_Updated automatically: 2026-10-23 09:23 UTC_
+_Updated automatically: 2026-10-24 08:54 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
