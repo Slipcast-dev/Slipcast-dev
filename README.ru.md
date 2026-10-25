@@ -89,12 +89,12 @@ Python · AsyncIO · CLI-утилиты · API-интеграции · Сист�
 
 <!-- LATEST-PROJECTS-START -->
 
+- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Описание пока не добавлено. · `CSS` · звёзды: 0 · push: 2026-10-24
+- [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — Koto · Slipcast-Dev — переводчик macOS / native macOS translator. Selection, OCR, Apple Translation &amp; optional Qwen. RU/EN docs. Apple Silicon alpha. · `Swift` · звёзды: 0 · push: 2026-10-24
 - [Athena-Agent](https://github.com/Slipcast-dev/Athena-Agent) — Athena 0.38.1 — local macOS agent, RU/EN, Apple Silicon preview. Source available; ad-hoc signed installers. · `Swift` · звёзды: 0 · push: 2026-10-24
 - [Ares-Agent](https://github.com/Slipcast-dev/Ares-Agent) — Ares 0.38.1 — local macOS agent, RU/EN, Apple Silicon preview. Source available; ad-hoc signed installers. · `Swift` · звёзды: 0 · push: 2026-10-24
-- [Rdragon-K530RGB-Keyboard-Port](https://github.com/Slipcast-dev/Rdragon-K530RGB-Keyboard-Port) — Описание пока не добавлено. · `N/A` · звёзды: 0 · push: 2026-10-21
-- [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — Описание пока не добавлено. · `N/A` · звёзды: 0 · push: 2026-10-21
 
-_Обновлено автоматически: 2026-10-24 08:54 UTC_
+_Обновлено автоматически: 2026-10-25 09:11 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
