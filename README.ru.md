@@ -89,12 +89,12 @@ Python · AsyncIO · CLI-утилиты · API-интеграции · Сист�
 
 <!-- LATEST-PROJECTS-START -->
 
-- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Описание пока не добавлено. · `CSS` · звёзды: 0 · push: 2026-10-24
-- [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — Koto · Slipcast-Dev — переводчик macOS / native macOS translator. Selection, OCR, Apple Translation &amp; optional Qwen. RU/EN docs. Apple Silicon alpha. · `Swift` · звёзды: 0 · push: 2026-10-24
-- [Athena-Agent](https://github.com/Slipcast-dev/Athena-Agent) — Athena 0.38.1 — local macOS agent, RU/EN, Apple Silicon preview. Source available; ad-hoc signed installers. · `Swift` · звёзды: 0 · push: 2026-10-24
-- [Ares-Agent](https://github.com/Slipcast-dev/Ares-Agent) — Ares 0.38.1 — local macOS agent, RU/EN, Apple Silicon preview. Source available; ad-hoc signed installers. · `Swift` · звёзды: 0 · push: 2026-10-24
+- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Описание пока не добавлено. · `JavaScript` · звёзды: 0 · push: 2026-10-26
+- [Athena-Agent](https://github.com/Slipcast-dev/Athena-Agent) — Athena 0.38.2 — local macOS agent, RU/EN, security fixes, Apple Silicon preview. Source available; ad-hoc signed installers. · `Swift` · звёзды: 0 · push: 2026-10-25
+- [Ares-Agent](https://github.com/Slipcast-dev/Ares-Agent) — Ares 0.38.2 — local macOS agent, RU/EN, security fixes, Apple Silicon preview. Source available; ad-hoc signed installers. · `Swift` · звёзды: 0 · push: 2026-10-25
+- [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — Koto · Slipcast-Dev — переводчик macOS / native macOS translator. Selection, OCR, Apple Translation &amp; optional Qwen. RU/EN docs. Apple Silicon alpha. · `Swift` · звёзды: 1 · push: 2026-10-25
 
-_Обновлено автоматически: 2026-10-25 09:11 UTC_
+_Обновлено автоматически: 2026-10-26 10:13 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
