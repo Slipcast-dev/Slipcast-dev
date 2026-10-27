@@ -89,12 +89,12 @@ Updated daily from public, non-archived repositories, excluding forks. Ordered b
 
 <!-- LATEST-PROJECTS-START -->
 
-- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — No description provided. · `JavaScript` · stars: 0 · pushed: 2026-10-26
-- [Athena-Agent](https://github.com/Slipcast-dev/Athena-Agent) — Athena 0.38.2 — local macOS agent, RU/EN, security fixes, Apple Silicon preview. Source available; ad-hoc signed installers. · `Swift` · stars: 0 · pushed: 2026-10-25
-- [Ares-Agent](https://github.com/Slipcast-dev/Ares-Agent) — Ares 0.38.2 — local macOS agent, RU/EN, security fixes, Apple Silicon preview. Source available; ad-hoc signed installers. · `Swift` · stars: 0 · pushed: 2026-10-25
-- [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — Koto · Slipcast-Dev — переводчик macOS / native macOS translator. Selection, OCR, Apple Translation &amp; optional Qwen. RU/EN docs. Apple Silicon alpha. · `Swift` · stars: 1 · pushed: 2026-10-25
+- [Athena-Agent](https://github.com/Slipcast-dev/Athena-Agent) — Athena 0.38.2 — local macOS agent, RU/EN, security fixes, Apple Silicon preview. Source available; ad-hoc signed installers. · `Swift` · stars: 0 · pushed: 2026-10-27
+- [Ares-Agent](https://github.com/Slipcast-dev/Ares-Agent) — Ares 0.38.2 — local macOS agent, RU/EN, security fixes, Apple Silicon preview. Source available; ad-hoc signed installers. · `Swift` · stars: 0 · pushed: 2026-10-27
+- [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — Koto · Slipcast-Dev — переводчик macOS / native macOS translator. Selection, OCR, Apple Translation &amp; optional Qwen. RU/EN docs. Apple Silicon alpha. · `Swift` · stars: 1 · pushed: 2026-10-27
+- [Rdragon-K530RGB-Keyboard-Port](https://github.com/Slipcast-dev/Rdragon-K530RGB-Keyboard-Port) — K530 Lighting — управление подсветкой Redragon K530 RGB на macOS \(Intel и Apple Silicon\): режим, яркость, скорость, цвет из строки меню · `Swift` · stars: 0 · pushed: 2026-10-26
 
-_Updated automatically: 2026-10-26 10:13 UTC_
+_Updated automatically: 2026-10-27 09:51 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
