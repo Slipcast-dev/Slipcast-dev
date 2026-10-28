@@ -89,12 +89,14 @@ Python · AsyncIO · CLI-утилиты · API-интеграции · Сист�
 
 <!-- LATEST-PROJECTS-START -->
 
+- [Grizzly](https://github.com/Slipcast-dev/Grizzly) — Fast, calm reader for Markdown and text files — native macOS app and portable Windows build · `Swift` · звёзды: 0 · push: 2026-10-27
+- [grizzly-website](https://github.com/Slipcast-dev/grizzly-website) — Официальный сайт Grizzly — офлайн-читалки Markdown и текста для macOS и Windows. Static landing page with GitHub Releases downloads. · `HTML` · звёзды: 0 · push: 2026-10-27
 - [Athena-Agent](https://github.com/Slipcast-dev/Athena-Agent) — Athena 0.38.2 — local macOS agent, RU/EN, security fixes, Apple Silicon preview. Source available; ad-hoc signed installers. · `Swift` · звёзды: 0 · push: 2026-10-27
 - [Ares-Agent](https://github.com/Slipcast-dev/Ares-Agent) — Ares 0.38.2 — local macOS agent, RU/EN, security fixes, Apple Silicon preview. Source available; ad-hoc signed installers. · `Swift` · звёзды: 0 · push: 2026-10-27
 - [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — Koto · Slipcast-Dev — переводчик macOS / native macOS translator. Selection, OCR, Apple Translation &amp; optional Qwen. RU/EN docs. Apple Silicon alpha. · `Swift` · звёзды: 1 · push: 2026-10-27
 - [Rdragon-K530RGB-Keyboard-Port](https://github.com/Slipcast-dev/Rdragon-K530RGB-Keyboard-Port) — K530 Lighting — управление подсветкой Redragon K530 RGB на macOS \(Intel и Apple Silicon\): режим, яркость, скорость, цвет из строки меню · `Swift` · звёзды: 0 · push: 2026-10-26
 
-_Обновлено автоматически: 2026-10-27 09:51 UTC_
+_Обновлено автоматически: 2026-10-28 10:37 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
