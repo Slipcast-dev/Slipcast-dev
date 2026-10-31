@@ -89,14 +89,14 @@ Updated daily from public, non-archived repositories, excluding forks. Ordered b
 
 <!-- LATEST-PROJECTS-START -->
 
-- [Grizzly](https://github.com/Slipcast-dev/Grizzly) — Fast, calm reader for Markdown, text and source code with syntax highlighting \(Python, Swift, C/C++, C#, JS/TS, CSS, PHP\) — native macOS app and portable Windows build · `Swift` · stars: 0 · pushed: 2026-10-30
-- [DragonMacros](https://github.com/Slipcast-dev/DragonMacros) — Native macOS hotkey utility: launch apps and open links with global keyboard shortcuts. Swift + AppKit, Russian and English UI. · `Swift` · stars: 0 · pushed: 2026-10-30
 - [grizzly-website](https://github.com/Slipcast-dev/grizzly-website) — Bilingual Grizzly website: Markdown, text and source code with syntax highlighting. Direct macOS and Windows downloads. · `HTML` · stars: 0 · pushed: 2026-10-30
+- [Grizzly](https://github.com/Slipcast-dev/Grizzly) — Fast, calm reader and editor for Markdown, text and source code — tags, spell check \(RU/EN\), syntax highlighting, in-app updates; native macOS app and portable Windows build · `Swift` · stars: 0 · pushed: 2026-10-30
+- [DragonMacros](https://github.com/Slipcast-dev/DragonMacros) — Native macOS hotkey utility: launch apps and open links with global keyboard shortcuts. Swift + AppKit, Russian and English UI. · `Swift` · stars: 0 · pushed: 2026-10-30
 - [koto-website](https://github.com/Slipcast-dev/koto-website) — Официальный сайт Koto — нативного переводчика для macOS от Slipcast-Dev · `HTML` · stars: 0 · pushed: 2026-10-29
-- [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — Koto · Slipcast-Dev — переводчик macOS / native macOS translator. Selection, OCR, Apple Translation &amp; optional Qwen. RU/EN docs. Apple Silicon alpha. · `Swift` · stars: 1 · pushed: 2026-10-27
+- [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — Koto · Slipcast-Dev — переводчик macOS / native macOS translator. Selection, OCR, Apple Translation &amp; optional Qwen. RU/EN docs. Apple Silicon alpha. · `Swift` · stars: 2 · pushed: 2026-10-27
 - [Rdragon-K530RGB-Keyboard-Port](https://github.com/Slipcast-dev/Rdragon-K530RGB-Keyboard-Port) — K530 Lighting — управление подсветкой Redragon K530 RGB на macOS \(Intel и Apple Silicon\): режим, яркость, скорость, цвет из строки меню · `Swift` · stars: 0 · pushed: 2026-10-26
 
-_Updated automatically: 2026-10-30 10:54 UTC_
+_Updated automatically: 2026-10-31 10:25 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
