@@ -96,7 +96,7 @@ Updated daily from public, non-archived repositories, excluding forks. Ordered b
 - [koto-website](https://github.com/Slipcast-dev/koto-website) — Официальный сайт Koto — нативного переводчика для macOS от Slipcast-Dev · `HTML` · stars: 0 · pushed: 2026-10-29
 - [Rdragon-K530RGB-Keyboard-Port](https://github.com/Slipcast-dev/Rdragon-K530RGB-Keyboard-Port) — K530 Lighting — управление подсветкой Redragon K530 RGB на macOS \(Intel и Apple Silicon\): режим, яркость, скорость, цвет из строки меню · `Swift` · stars: 0 · pushed: 2026-10-26
 
-_Updated automatically: 2026-11-01 11:19 UTC_
+_Updated automatically: 2026-11-02 12:33 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
