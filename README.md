@@ -89,14 +89,14 @@ Updated daily from public, non-archived repositories, excluding forks. Ordered b
 
 <!-- LATEST-PROJECTS-START -->
 
+- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Bilingual terminal-style portfolio: AI, automation, applications and websites. Automated public project updates. · `HTML` · stars: 0 · pushed: 2026-11-03
+- [codex-user-skills](https://github.com/Slipcast-dev/codex-user-skills) — Пользовательские скилы для OpenAI Codex / User skills for OpenAI Codex — 1809 skills, 22 categories, RU/EN docs. · `Python` · stars: 0 · pushed: 2026-11-03
+- [Grizzly](https://github.com/Slipcast-dev/Grizzly) — Fast, calm reader and editor for Markdown, text and source code — tags, spell check \(RU/EN\), syntax highlighting, in-app updates; native macOS app and portable Windows build · `Swift` · stars: 0 · pushed: 2026-11-03
 - [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — Koto · Slipcast-Dev — переводчик macOS / native macOS translator. Selection, OCR, Apple Translation &amp; optional Qwen, Chrome &amp; Safari. RU/EN docs. Apple Silicon alpha. · `Swift` · stars: 2 · pushed: 2026-11-02
 - [koto-website](https://github.com/Slipcast-dev/koto-website) — Официальный сайт Koto — нативного переводчика для macOS от Slipcast-Dev · `HTML` · stars: 0 · pushed: 2026-11-02
 - [grizzly-website](https://github.com/Slipcast-dev/grizzly-website) — Bilingual Grizzly website: Markdown, text and source code with syntax highlighting. Direct macOS and Windows downloads. · `HTML` · stars: 0 · pushed: 2026-11-02
-- [Grizzly](https://github.com/Slipcast-dev/Grizzly) — Fast, calm reader and editor for Markdown, text and source code — tags, spell check \(RU/EN\), syntax highlighting, in-app updates; native macOS app and portable Windows build · `Swift` · stars: 0 · pushed: 2026-11-02
-- [DragonMacros](https://github.com/Slipcast-dev/DragonMacros) — Native macOS hotkey utility: launch apps and open links with global keyboard shortcuts. Swift + AppKit, Russian and English UI. · `Swift` · stars: 0 · pushed: 2026-10-30
-- [Rdragon-K530RGB-Keyboard-Port](https://github.com/Slipcast-dev/Rdragon-K530RGB-Keyboard-Port) — K530 Lighting — управление подсветкой Redragon K530 RGB на macOS \(Intel и Apple Silicon\): режим, яркость, скорость, цвет из строки меню · `Swift` · stars: 0 · pushed: 2026-10-26
 
-_Updated automatically: 2026-11-03 11:59 UTC_
+_Updated automatically: 2026-11-04 12:14 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
