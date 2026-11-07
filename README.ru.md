@@ -96,7 +96,7 @@ Python · AsyncIO · CLI-утилиты · API-интеграции · Сист�
 - [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — Koto · Slipcast-Dev — переводчик macOS / native macOS translator. Selection, OCR, Apple Translation &amp; optional Qwen, Chrome &amp; Safari. RU/EN docs. Apple Silicon alpha. · `Swift` · звёзды: 2 · push: 2026-11-02
 - [koto-website](https://github.com/Slipcast-dev/koto-website) — Официальный сайт Koto — нативного переводчика для macOS от Slipcast-Dev · `HTML` · звёзды: 0 · push: 2026-11-02
 
-_Обновлено автоматически: 2026-11-06 12:10 UTC_
+_Обновлено автоматически: 2026-11-07 11:07 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 

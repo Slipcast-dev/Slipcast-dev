@@ -96,7 +96,7 @@ Updated daily from public, non-archived repositories, excluding forks. Ordered b
 - [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — Koto · Slipcast-Dev — переводчик macOS / native macOS translator. Selection, OCR, Apple Translation &amp; optional Qwen, Chrome &amp; Safari. RU/EN docs. Apple Silicon alpha. · `Swift` · stars: 2 · pushed: 2026-11-02
 - [koto-website](https://github.com/Slipcast-dev/koto-website) — Официальный сайт Koto — нативного переводчика для macOS от Slipcast-Dev · `HTML` · stars: 0 · pushed: 2026-11-02
 
-_Updated automatically: 2026-11-06 12:10 UTC_
+_Updated automatically: 2026-11-07 11:07 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
