@@ -89,14 +89,14 @@ Python · AsyncIO · CLI-утилиты · API-интеграции · Сист�
 
 <!-- LATEST-PROJECTS-START -->
 
-- [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — Koto · Slipcast-Dev — переводчик macOS / native macOS translator. Selection, OCR, Apple Translation &amp; optional Qwen, Chrome &amp; Safari. RU/EN docs. Apple Silicon alpha. · `Swift` · звёзды: 3 · push: 2026-11-08
-- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Bilingual terminal-style portfolio: AI, automation, applications and websites. Automated public project updates. · `JavaScript` · звёзды: 0 · push: 2026-11-05
-- [claude-skills](https://github.com/Slipcast-dev/claude-skills) — 1,814 categorized Agent Skills for Claude Code, with validation, catalog and install scripts · `Python` · звёзды: 0 · push: 2026-11-05
-- [codex-user-skills](https://github.com/Slipcast-dev/codex-user-skills) — Пользовательские скилы для OpenAI Codex / User skills for OpenAI Codex — 1809 skills, 22 categories, RU/EN docs. · `Python` · звёзды: 1 · push: 2026-11-05
-- [Grizzly](https://github.com/Slipcast-dev/Grizzly) — Fast, calm reader and editor for Markdown, text and source code — tags, spell check \(RU/EN\), syntax highlighting, in-app updates; native macOS app and portable Windows build · `Swift` · звёзды: 0 · push: 2026-11-03
-- [koto-website](https://github.com/Slipcast-dev/koto-website) — Официальный сайт Koto — нативного переводчика для macOS от Slipcast-Dev · `HTML` · звёзды: 0 · push: 2026-11-02
+- [grizzly-website](https://github.com/Slipcast-dev/grizzly-website) — Bilingual Grizzly website: Markdown, text and source code with syntax highlighting. Direct macOS and Windows downloads. · `HTML` · звёзды: 0 · push: 2026-11-10
+- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Bilingual terminal-style portfolio: AI, automation, applications and websites. Automated public project updates. · `JavaScript` · звёзды: 0 · push: 2026-11-09
+- [VibeWave](https://github.com/Slipcast-dev/VibeWave) — Минималистичный MP3/FLAC-плеер для macOS в стиле Windows 95 · Retro Windows 95–style MP3/FLAC player for macOS. Apple Silicon + Intel, 10-band EQ, RU/EN, auto-update. · `Swift` · звёзды: 0 · push: 2026-11-09
+- [koto-website](https://github.com/Slipcast-dev/koto-website) — Официальный сайт Koto — нативного переводчика для macOS от Slipcast-Dev · `HTML` · звёзды: 0 · push: 2026-11-09
+- [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — Koto · Slipcast-Dev — переводчик macOS / native macOS translator. Selection, OCR, Apple Translation &amp; optional Qwen, Chrome &amp; Safari. RU/EN docs. Apple Silicon alpha. · `Swift` · звёзды: 3 · push: 2026-11-09
+- [Grizzly](https://github.com/Slipcast-dev/Grizzly) — Fast, calm reader and editor for Markdown, text and source code — tags, spell check \(RU/EN\), syntax highlighting, in-app updates; native macOS app and portable Windows build · `Swift` · звёзды: 0 · push: 2026-11-09
 
-_Обновлено автоматически: 2026-11-09 12:58 UTC_
+_Обновлено автоматически: 2026-11-10 12:44 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
