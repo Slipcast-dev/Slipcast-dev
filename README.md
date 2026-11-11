@@ -89,14 +89,14 @@ Updated daily from public, non-archived repositories, excluding forks. Ordered b
 
 <!-- LATEST-PROJECTS-START -->
 
+- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Bilingual terminal-style portfolio: AI, automation, applications and websites. Automated public project updates. · `JavaScript` · stars: 0 · pushed: 2026-11-11
+- [MindNotes-Apple-Silicon](https://github.com/Slipcast-dev/MindNotes-Apple-Silicon) — MindNotes — личная локальная база знаний для Mac на Apple Silicon: страницы, блочный редактор, базы данных в духе Notion. arm64, macOS 26+ · `Swift` · stars: 0 · pushed: 2026-11-11
+- [Grizzly](https://github.com/Slipcast-dev/Grizzly) — Fast, calm reader and editor for Markdown, text and source code — tags, spell check \(RU/EN\), syntax highlighting, in-app updates; native macOS app and portable Windows build · `Swift` · stars: 0 · pushed: 2026-11-10
 - [grizzly-website](https://github.com/Slipcast-dev/grizzly-website) — Bilingual Grizzly website: Markdown, text and source code with syntax highlighting. Direct macOS and Windows downloads. · `HTML` · stars: 0 · pushed: 2026-11-10
-- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Bilingual terminal-style portfolio: AI, automation, applications and websites. Automated public project updates. · `JavaScript` · stars: 0 · pushed: 2026-11-09
 - [VibeWave](https://github.com/Slipcast-dev/VibeWave) — Минималистичный MP3/FLAC-плеер для macOS в стиле Windows 95 · Retro Windows 95–style MP3/FLAC player for macOS. Apple Silicon + Intel, 10-band EQ, RU/EN, auto-update. · `Swift` · stars: 0 · pushed: 2026-11-09
 - [koto-website](https://github.com/Slipcast-dev/koto-website) — Официальный сайт Koto — нативного переводчика для macOS от Slipcast-Dev · `HTML` · stars: 0 · pushed: 2026-11-09
-- [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — Koto · Slipcast-Dev — переводчик macOS / native macOS translator. Selection, OCR, Apple Translation &amp; optional Qwen, Chrome &amp; Safari. RU/EN docs. Apple Silicon alpha. · `Swift` · stars: 3 · pushed: 2026-11-09
-- [Grizzly](https://github.com/Slipcast-dev/Grizzly) — Fast, calm reader and editor for Markdown, text and source code — tags, spell check \(RU/EN\), syntax highlighting, in-app updates; native macOS app and portable Windows build · `Swift` · stars: 0 · pushed: 2026-11-09
 
-_Updated automatically: 2026-11-10 12:44 UTC_
+_Updated automatically: 2026-11-11 11:55 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
