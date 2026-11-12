@@ -89,14 +89,14 @@ Python · AsyncIO · CLI-утилиты · API-интеграции · Сист�
 
 <!-- LATEST-PROJECTS-START -->
 
-- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Bilingual terminal-style portfolio: AI, automation, applications and websites. Automated public project updates. · `JavaScript` · звёзды: 0 · push: 2026-11-11
-- [MindNotes-Apple-Silicon](https://github.com/Slipcast-dev/MindNotes-Apple-Silicon) — MindNotes — личная локальная база знаний для Mac на Apple Silicon: страницы, блочный редактор, базы данных в духе Notion. arm64, macOS 26+ · `Swift` · звёзды: 0 · push: 2026-11-11
+- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Bilingual terminal-style portfolio: AI, automation, applications and websites. Automated public project updates. · `JavaScript` · звёзды: 0 · push: 2026-11-12
+- [MindNotes-Apple-Silicon](https://github.com/Slipcast-dev/MindNotes-Apple-Silicon) — MindNotes — a personal local knowledge base for Apple silicon Macs: pages, block editor, Notion-style databases. Личная локальная база знаний для Mac на Apple Silicon. arm64, macOS 26+ · `Swift` · звёзды: 0 · push: 2026-11-12
+- [vibewave-website](https://github.com/Slipcast-dev/vibewave-website) — Official bilingual website for VibeWave, a retro audio player for macOS · `HTML` · звёзды: 0 · push: 2026-11-11
+- [VibeWave](https://github.com/Slipcast-dev/VibeWave) — Ретро-аудиоплеер для macOS в стиле Windows 95: MP3, FLAC, Ogg Opus/Vorbis, AAC/M4A, WAV, AIFF · Retro Windows 95–style audio player for macOS. Apple Silicon + Intel, 10-band EQ, ReplayGain, gapless, RU/EN, auto-update. · `Swift` · звёзды: 0 · push: 2026-11-11
 - [Grizzly](https://github.com/Slipcast-dev/Grizzly) — Fast, calm reader and editor for Markdown, text and source code — tags, spell check \(RU/EN\), syntax highlighting, in-app updates; native macOS app and portable Windows build · `Swift` · звёзды: 0 · push: 2026-11-10
 - [grizzly-website](https://github.com/Slipcast-dev/grizzly-website) — Bilingual Grizzly website: Markdown, text and source code with syntax highlighting. Direct macOS and Windows downloads. · `HTML` · звёзды: 0 · push: 2026-11-10
-- [VibeWave](https://github.com/Slipcast-dev/VibeWave) — Минималистичный MP3/FLAC-плеер для macOS в стиле Windows 95 · Retro Windows 95–style MP3/FLAC player for macOS. Apple Silicon + Intel, 10-band EQ, RU/EN, auto-update. · `Swift` · звёзды: 0 · push: 2026-11-09
-- [koto-website](https://github.com/Slipcast-dev/koto-website) — Официальный сайт Koto — нативного переводчика для macOS от Slipcast-Dev · `HTML` · звёзды: 0 · push: 2026-11-09
 
-_Обновлено автоматически: 2026-11-11 11:55 UTC_
+_Обновлено автоматически: 2026-11-12 12:50 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
