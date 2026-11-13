@@ -89,14 +89,14 @@ Updated daily from public, non-archived repositories, excluding forks. Ordered b
 
 <!-- LATEST-PROJECTS-START -->
 
+- [MindNotes-Apple-Silicon](https://github.com/Slipcast-dev/MindNotes-Apple-Silicon) — MindNotes — a personal local knowledge base for Apple silicon Macs: pages, block editor, Notion-style databases. Личная локальная база знаний для Mac на Apple Silicon. arm64, macOS 26+ · `Swift` · stars: 0 · pushed: 2026-11-13
 - [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Bilingual terminal-style portfolio: AI, automation, applications and websites. Automated public project updates. · `JavaScript` · stars: 0 · pushed: 2026-11-12
-- [MindNotes-Apple-Silicon](https://github.com/Slipcast-dev/MindNotes-Apple-Silicon) — MindNotes — a personal local knowledge base for Apple silicon Macs: pages, block editor, Notion-style databases. Личная локальная база знаний для Mac на Apple Silicon. arm64, macOS 26+ · `Swift` · stars: 0 · pushed: 2026-11-12
 - [vibewave-website](https://github.com/Slipcast-dev/vibewave-website) — Official bilingual website for VibeWave, a retro audio player for macOS · `HTML` · stars: 0 · pushed: 2026-11-11
 - [VibeWave](https://github.com/Slipcast-dev/VibeWave) — Ретро-аудиоплеер для macOS в стиле Windows 95: MP3, FLAC, Ogg Opus/Vorbis, AAC/M4A, WAV, AIFF · Retro Windows 95–style audio player for macOS. Apple Silicon + Intel, 10-band EQ, ReplayGain, gapless, RU/EN, auto-update. · `Swift` · stars: 0 · pushed: 2026-11-11
 - [Grizzly](https://github.com/Slipcast-dev/Grizzly) — Fast, calm reader and editor for Markdown, text and source code — tags, spell check \(RU/EN\), syntax highlighting, in-app updates; native macOS app and portable Windows build · `Swift` · stars: 0 · pushed: 2026-11-10
 - [grizzly-website](https://github.com/Slipcast-dev/grizzly-website) — Bilingual Grizzly website: Markdown, text and source code with syntax highlighting. Direct macOS and Windows downloads. · `HTML` · stars: 0 · pushed: 2026-11-10
 
-_Updated automatically: 2026-11-12 12:50 UTC_
+_Updated automatically: 2026-11-13 12:17 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
