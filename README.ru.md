@@ -89,14 +89,14 @@ Python · AsyncIO · CLI-утилиты · API-интеграции · Сист�
 
 <!-- LATEST-PROJECTS-START -->
 
-- [MindNotes-Apple-Silicon](https://github.com/Slipcast-dev/MindNotes-Apple-Silicon) — MindNotes — a personal local knowledge base for Apple silicon Macs: pages, block editor, Notion-style databases. Личная локальная база знаний для Mac на Apple Silicon. arm64, macOS 26+ · `Swift` · звёзды: 0 · push: 2026-11-13
-- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Bilingual terminal-style portfolio: AI, automation, applications and websites. Automated public project updates. · `JavaScript` · звёзды: 0 · push: 2026-11-12
+- [MindNotes-Apple-Silicon](https://github.com/Slipcast-dev/MindNotes-Apple-Silicon) — MindNotes — a personal local knowledge base for Apple silicon Macs: pages, block editor, Notion-style databases. Личная локальная база знаний для Mac на Apple Silicon. arm64, macOS 15+ · `Swift` · звёзды: 0 · push: 2026-11-14
+- [MindNotes-GitHub](https://github.com/Slipcast-dev/MindNotes-GitHub) — GitHub for MindNotes: sync a MindNotes section with a GitHub repository \(macOS menu bar plugin\) · `Swift` · звёзды: 0 · push: 2026-11-14
+- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Bilingual terminal-style portfolio: AI, automation, applications and websites. Automated public project updates. · `JavaScript` · звёзды: 0 · push: 2026-11-14
+- [MindNotes-WebClipper](https://github.com/Slipcast-dev/MindNotes-WebClipper) — Web Clipper for MindNotes: save articles, selections, bookmarks and screenshots from Safari and Chrome · Сохранение страниц из Safari и Chrome в MindNotes · `JavaScript` · звёзды: 0 · push: 2026-11-14
+- [Rdragon-K530RGB-Keyboard-Port](https://github.com/Slipcast-dev/Rdragon-K530RGB-Keyboard-Port) — K530 Lighting — управление подсветкой Redragon K530 RGB на macOS \(Intel и Apple Silicon\): режим, яркость, скорость, цвет из строки меню · `Swift` · звёзды: 0 · push: 2026-11-14
 - [vibewave-website](https://github.com/Slipcast-dev/vibewave-website) — Official bilingual website for VibeWave, a retro audio player for macOS · `HTML` · звёзды: 0 · push: 2026-11-11
-- [VibeWave](https://github.com/Slipcast-dev/VibeWave) — Ретро-аудиоплеер для macOS в стиле Windows 95: MP3, FLAC, Ogg Opus/Vorbis, AAC/M4A, WAV, AIFF · Retro Windows 95–style audio player for macOS. Apple Silicon + Intel, 10-band EQ, ReplayGain, gapless, RU/EN, auto-update. · `Swift` · звёзды: 0 · push: 2026-11-11
-- [Grizzly](https://github.com/Slipcast-dev/Grizzly) — Fast, calm reader and editor for Markdown, text and source code — tags, spell check \(RU/EN\), syntax highlighting, in-app updates; native macOS app and portable Windows build · `Swift` · звёзды: 0 · push: 2026-11-10
-- [grizzly-website](https://github.com/Slipcast-dev/grizzly-website) — Bilingual Grizzly website: Markdown, text and source code with syntax highlighting. Direct macOS and Windows downloads. · `HTML` · звёзды: 0 · push: 2026-11-10
 
-_Обновлено автоматически: 2026-11-13 12:17 UTC_
+_Обновлено автоматически: 2026-11-14 11:33 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
