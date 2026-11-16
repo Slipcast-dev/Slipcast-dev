@@ -89,14 +89,14 @@ Python · AsyncIO · CLI-утилиты · API-интеграции · Сист�
 
 <!-- LATEST-PROJECTS-START -->
 
-- [MindNotes-Apple-Silicon](https://github.com/Slipcast-dev/MindNotes-Apple-Silicon) — MindNotes — a personal local knowledge base for Apple silicon Macs: pages, block editor, Notion-style databases. Личная локальная база знаний для Mac на Apple Silicon. arm64, macOS 15+ · `Swift` · звёзды: 0 · push: 2026-11-14
+- [MindNotes-Apple-Silicon](https://github.com/Slipcast-dev/MindNotes-Apple-Silicon) — MindNotes — a personal local knowledge base for Apple silicon Macs: pages, block editor, Notion-style databases. Личная локальная база знаний для Mac на Apple Silicon. arm64, macOS 15+ · `Swift` · звёзды: 0 · push: 2026-11-15
 - [DragonMacros](https://github.com/Slipcast-dev/DragonMacros) — Native macOS hotkey utility: launch apps and open links with global keyboard shortcuts. Swift + AppKit, Russian and English UI. · `Swift` · звёзды: 0 · push: 2026-11-14
 - [MindNotes-GitHub](https://github.com/Slipcast-dev/MindNotes-GitHub) — GitHub for MindNotes: sync a MindNotes section with a GitHub repository \(macOS menu bar plugin\) · `Swift` · звёзды: 0 · push: 2026-11-14
 - [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Bilingual terminal-style portfolio: AI, automation, applications and websites. Automated public project updates. · `JavaScript` · звёзды: 0 · push: 2026-11-14
 - [MindNotes-WebClipper](https://github.com/Slipcast-dev/MindNotes-WebClipper) — Web Clipper for MindNotes: save articles, selections, bookmarks and screenshots from Safari and Chrome · Сохранение страниц из Safari и Chrome в MindNotes · `JavaScript` · звёзды: 0 · push: 2026-11-14
 - [Rdragon-K530RGB-Keyboard-Port](https://github.com/Slipcast-dev/Rdragon-K530RGB-Keyboard-Port) — K530 Lighting — управление подсветкой Redragon K530 RGB на macOS \(Intel и Apple Silicon\): режим, яркость, скорость, цвет из строки меню · `Swift` · звёзды: 0 · push: 2026-11-14
 
-_Обновлено автоматически: 2026-11-15 11:59 UTC_
+_Обновлено автоматически: 2026-11-16 12:51 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
