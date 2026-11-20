@@ -89,14 +89,14 @@ Updated daily from public, non-archived repositories, excluding forks. Ordered b
 
 <!-- LATEST-PROJECTS-START -->
 
-- [codex-skills](https://github.com/Slipcast-dev/codex-skills) — Codex Skills 2.0 — Astra 6.2 / Sol 6.2 · 2026-11-19. 1810 skills, 22 categories, RU/EN docs. Original ZIP: 1671 updated skills. · `Python` · stars: 1 · pushed: 2026-11-18
-- [MindNotes](https://github.com/Slipcast-dev/MindNotes) — MindNotes — personal local knowledge base for Mac \(app\) + plugins: Web Clipper, GitHub sync. Downloads for Apple silicon, macOS 15+ · `N/A` · stars: 0 · pushed: 2026-11-18
-- [MindNotes-GitHub](https://github.com/Slipcast-dev/MindNotes-GitHub) — GitHub for MindNotes: sync a MindNotes section with a GitHub repository \(macOS menu bar plugin\) · `Swift` · stars: 0 · pushed: 2026-11-18
-- [MindNotes-WebClipper](https://github.com/Slipcast-dev/MindNotes-WebClipper) — Web Clipper for MindNotes: save articles, selections, bookmarks and screenshots from Safari and Chrome · Сохранение страниц из Safari и Chrome в MindNotes · `JavaScript` · stars: 0 · pushed: 2026-11-18
-- [MindNotes-Apple-Silicon](https://github.com/Slipcast-dev/MindNotes-Apple-Silicon) — MindNotes — a personal local knowledge base for Apple silicon Macs: pages, block editor, Notion-style databases. Личная локальная база знаний для Mac на Apple Silicon. arm64, macOS 15+ · `Swift` · stars: 0 · pushed: 2026-11-18
-- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Bilingual terminal-style portfolio: AI, automation, applications and websites. Automated public project updates. · `JavaScript` · stars: 0 · pushed: 2026-11-18
+- [MindNotes](https://github.com/Slipcast-dev/MindNotes) — MindNotes — personal local knowledge base for Mac \(app\) + plugins: Web Clipper, GitHub sync. Downloads for Apple silicon, macOS 15+ · `N/A` · stars: 0 · pushed: 2026-11-20
+- [MindNotes-GitHub](https://github.com/Slipcast-dev/MindNotes-GitHub) — GitHub for MindNotes: sync a MindNotes section with a GitHub repository \(macOS menu bar plugin\) · `Swift` · stars: 0 · pushed: 2026-11-20
+- [MindNotes-WebClipper](https://github.com/Slipcast-dev/MindNotes-WebClipper) — Web Clipper for MindNotes: save articles, selections, bookmarks and screenshots from Safari and Chrome · Сохранение страниц из Safari и Chrome в MindNotes · `JavaScript` · stars: 0 · pushed: 2026-11-20
+- [MindNotes-Apple-Silicon](https://github.com/Slipcast-dev/MindNotes-Apple-Silicon) — MindNotes — a personal local knowledge base for Apple silicon Macs: pages, block editor, Notion-style databases. Личная локальная база знаний для Mac на Apple Silicon. arm64, macOS 15+ · `Swift` · stars: 0 · pushed: 2026-11-20
+- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Bilingual terminal-style portfolio: AI, automation, applications and websites. Automated public project updates. · `JavaScript` · stars: 0 · pushed: 2026-11-19
+- [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — Koto · Slipcast-Dev — переводчик macOS / native macOS translator. Selection, OCR, Apple Translation &amp; optional Qwen, Chrome &amp; Safari. RU/EN docs. Apple Silicon alpha. · `Swift` · stars: 3 · pushed: 2026-11-19
 
-_Updated automatically: 2026-11-19 13:22 UTC_
+_Updated automatically: 2026-11-20 13:03 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
