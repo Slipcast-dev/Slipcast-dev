@@ -89,14 +89,14 @@ Updated daily from public, non-archived repositories, excluding forks. Ordered b
 
 <!-- LATEST-PROJECTS-START -->
 
+- [DragonMacros](https://github.com/Slipcast-dev/DragonMacros) — Native macOS hotkey utility: launch apps and open links with global keyboard shortcuts. Swift + AppKit, Russian and English UI. · `Swift` · stars: 0 · pushed: 2026-11-26
+- [Rdragon-K530RGB-Keyboard-Port](https://github.com/Slipcast-dev/Rdragon-K530RGB-Keyboard-Port) — K530 Lighting — управление подсветкой Redragon K530 RGB на macOS \(Intel и Apple Silicon\): режим, яркость, скорость, цвет из строки меню · `Swift` · stars: 0 · pushed: 2026-11-25
+- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Bilingual terminal-style portfolio: AI, automation, applications and websites. Automated public project updates. · `JavaScript` · stars: 0 · pushed: 2026-11-25
 - [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — Koto · Slipcast-Dev — переводчик macOS / native macOS translator. Selection, OCR, Apple Translation &amp; optional Qwen, Chrome &amp; Safari. RU/EN docs. Apple Silicon alpha. · `Swift` · stars: 3 · pushed: 2026-11-25
 - [VibeWave](https://github.com/Slipcast-dev/VibeWave) — Ретро-аудиоплеер для macOS в стиле Windows 95: MP3, FLAC, Ogg Opus/Vorbis, AAC/M4A, WAV, AIFF · Retro Windows 95–style audio player for macOS. Apple Silicon + Intel, 10-band EQ, ReplayGain, gapless, RU/EN, auto-update. · `Swift` · stars: 0 · pushed: 2026-11-25
-- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Bilingual terminal-style portfolio: AI, automation, applications and websites. Automated public project updates. · `JavaScript` · stars: 0 · pushed: 2026-11-24
 - [Grizzly](https://github.com/Slipcast-dev/Grizzly) — Fast, calm reader and editor for Markdown, text and source code — tags, spell check \(RU/EN\), syntax highlighting, in-app updates; native macOS app and portable Windows build · `Swift` · stars: 0 · pushed: 2026-11-24
-- [codex-skills](https://github.com/Slipcast-dev/codex-skills) — Codex Skills 2.0 — Astra 6.2 / Sol 6.2 · 2026-11-19. 1810 skills, 22 categories, RU/EN docs. Original ZIP: 1671 updated skills. · `Python` · stars: 1 · pushed: 2026-11-18
-- [DragonMacros](https://github.com/Slipcast-dev/DragonMacros) — Native macOS hotkey utility: launch apps and open links with global keyboard shortcuts. Swift + AppKit, Russian and English UI. · `Swift` · stars: 0 · pushed: 2026-11-14
 
-_Updated automatically: 2026-11-25 14:30 UTC_
+_Updated automatically: 2026-11-26 13:58 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
