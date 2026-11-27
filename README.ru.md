@@ -89,14 +89,14 @@ Python · AsyncIO · CLI-утилиты · API-интеграции · Сист�
 
 <!-- LATEST-PROJECTS-START -->
 
+- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Bilingual terminal-style portfolio: AI, automation, applications and websites. Automated public project updates. · `HTML` · звёзды: 0 · push: 2026-11-27
 - [DragonMacros](https://github.com/Slipcast-dev/DragonMacros) — Native macOS hotkey utility: launch apps and open links with global keyboard shortcuts. Swift + AppKit, Russian and English UI. · `Swift` · звёзды: 0 · push: 2026-11-26
 - [Rdragon-K530RGB-Keyboard-Port](https://github.com/Slipcast-dev/Rdragon-K530RGB-Keyboard-Port) — K530 Lighting — управление подсветкой Redragon K530 RGB на macOS \(Intel и Apple Silicon\): режим, яркость, скорость, цвет из строки меню · `Swift` · звёзды: 0 · push: 2026-11-25
-- [Slipcast-dev.github.io](https://github.com/Slipcast-dev/Slipcast-dev.github.io) — Bilingual terminal-style portfolio: AI, automation, applications and websites. Automated public project updates. · `JavaScript` · звёзды: 0 · push: 2026-11-25
 - [translator-Koto](https://github.com/Slipcast-dev/translator-Koto) — Koto · Slipcast-Dev — переводчик macOS / native macOS translator. Selection, OCR, Apple Translation &amp; optional Qwen, Chrome &amp; Safari. RU/EN docs. Apple Silicon alpha. · `Swift` · звёзды: 3 · push: 2026-11-25
 - [VibeWave](https://github.com/Slipcast-dev/VibeWave) — Ретро-аудиоплеер для macOS в стиле Windows 95: MP3, FLAC, Ogg Opus/Vorbis, AAC/M4A, WAV, AIFF · Retro Windows 95–style audio player for macOS. Apple Silicon + Intel, 10-band EQ, ReplayGain, gapless, RU/EN, auto-update. · `Swift` · звёзды: 0 · push: 2026-11-25
 - [Grizzly](https://github.com/Slipcast-dev/Grizzly) — Fast, calm reader and editor for Markdown, text and source code — tags, spell check \(RU/EN\), syntax highlighting, in-app updates; native macOS app and portable Windows build · `Swift` · звёзды: 0 · push: 2026-11-24
 
-_Обновлено автоматически: 2026-11-26 13:58 UTC_
+_Обновлено автоматически: 2026-11-27 13:56 UTC_
 
 <!-- LATEST-PROJECTS-END -->
 
